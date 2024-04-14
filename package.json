@@ -1,0 +1,16 @@
+{
+  "name": "infinite-sushi-slicer",
+  "version": "1.0.0",
+  "description": "The Infinite Sushi Slider is a fun, interactive app that lets you play with a never-ending sushi roll. Click on a slice to remove it, and watch as a new one appears, keeping the sushi roll infinite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "vite": "^5.2.8"
+  }
+}
